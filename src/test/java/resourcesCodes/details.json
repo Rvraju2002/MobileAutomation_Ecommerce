@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John Doe",
+    "gender": "Male",
+    "country": "Austria"
+  },
+  {
+    "name": "Jane Smith",
+    "gender": "Female",
+    "country": "India"
+  },
+  {
+    "name": "Mohammed Ali",
+    "gender": "Female",
+    "country": "Spain"
+  }
+]
